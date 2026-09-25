@@ -1,0 +1,8 @@
+# System Logs (Simulated)
+
+Sep 21 10:22:11 Failed password for admin from 185.199.110.45 port 51222 ssh2
+Sep 21 10:22:15 Failed password for admin from 185.199.110.45 port 51222 ssh2
+Sep 21 10:22:18 Accepted password for admin from 185.199.110.45 port 51222 ssh2
+
+Sep 21 10:23:01 sudo: admin : TTY=pts/0 ; PWD=/home/admin ; COMMAND=/bin/bash
+Sep 21 10:23:15 admin executed unknown binary: /tmp/update-service
