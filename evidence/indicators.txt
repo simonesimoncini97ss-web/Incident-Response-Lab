@@ -1,0 +1,6 @@
+# Indicators of Compromise (IoCs)
+
+Suspicious IP: 185.199.110.45
+Malicious file: /tmp/update-service
+Hash (simulated): 9f8a7c2b1d0e4fbb12c9d1a2e3f4a5b6
+Unauthorized login: admin account
